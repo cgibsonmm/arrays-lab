@@ -22,5 +22,3 @@ git add .
 git commit -m "solved question 1"
 git push
 ```
-
-When you're done, create a pull request.
