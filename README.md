@@ -2,7 +2,6 @@
 
 1. Fork
 1. Clone
-1. Pull Request
 
 # Arrays Practice
 
